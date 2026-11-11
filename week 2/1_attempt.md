@@ -16,3 +16,4 @@ problem 4: in rows where thousand seperaters are used it caused the entire price
 code:raw[number.isna()][["date","item","city","price"]]
 decision: using .str and.replace to remove these commas
 reason:commas cannot be converted to floats directly
+commit:787192b
