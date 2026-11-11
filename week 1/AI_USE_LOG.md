@@ -1,1 +1,1 @@
-used AI to challenge my assumptions to give its own 5 assumption then i took help from AI to also challenge the claims it made to know which were the most weak arguments.Also used AI to use git hub and VS as it was first time using it.
+used AI to challenge my assumptions to give its own 5 assumption then i took help from AI to also challenge the claims it made to know which were the most weak arguments.Also used AI to use git hub and VS as it was first time using it.Also used AI to figure out how to do final commit.
