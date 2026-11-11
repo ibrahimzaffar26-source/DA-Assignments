@@ -1,0 +1,1 @@
+I used AI to find some of the reasoning of the problems and took help from it where ever i got stuck while using VS or git hub 
