@@ -9,3 +9,4 @@ E:it is assumed that mean and median are close becsuse there are no extreme valu
 the mean moves so much because it adds up every price so one very large value dominates it while the median depends only on the middle of the sorted prices. without 9999 the mean of sweetner d will also come close to its median
 
 C=The 9999 may be a placeholder for a missing price or the value is entered by mistake but non of this can be said without confirmation
+commit hash:c09e056
