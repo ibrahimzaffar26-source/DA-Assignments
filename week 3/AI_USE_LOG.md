@@ -1,0 +1,1 @@
+used AI for the conversation and intreprtaion and to use vs and git hub where i got stuck
